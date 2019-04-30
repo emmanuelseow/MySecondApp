@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string-array name="expertise_arrays">
+        <item>Art and Design</item>
+        <item>Information Technology</item>
+        <item>Copywriting</item>
+        <item>Financial Advice</item>
+        <item>Business Consulting</item>
+
+    </string-array>
+</resources>
